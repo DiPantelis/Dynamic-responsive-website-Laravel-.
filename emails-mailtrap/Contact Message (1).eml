@@ -1,0 +1,35 @@
+Message-ID: <086d5315212ab3a046a4ddb9b5ccfdb4@localhost>
+Date: Thu, 04 Mar 2021 10:22:34 +0000
+Subject: Contact Message
+From: dimitrispantelis95@gmail.com
+To: dipantelis@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+
+<html>
+    <head>
+        <title>Notification-email</title>
+    </head>
+    <body>
+        <h1>You have a new message!</h1>
+        <h2>User:=CE=94=CE=B7=CE=BC=CE=AE=CF=84=CF=81=CE=B7=CF=82 =CE=A0=
+=CE=B1=CE=BD=CF=84=CE=B5=CE=BB=CE=AE=CF=82, sent you the following message:=
+</h2>
+        <p>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, s=
+ed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim a=
+d minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip e=
+x ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate=
+ velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat=
+ cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id =
+est laborum.&quot;</p>
+        <h3 >Contact Info:</h3>
+        <ul>
+            <li>Email:dimitrispantelis95@gmail.com</li>
+            <li>Phone number:6955335905</li>
+        </ul>
+    </body>
+</html>
+

@@ -1,0 +1,27 @@
+Message-ID: <c29577480e3766e3adc2c1d9a3685602@localhost>
+Date: Thu, 04 Mar 2021 10:29:56 +0000
+Subject: Contact Message
+From: raziel665@mail.com
+To: dipantelis@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+
+<html>
+    <head>
+        <title>Notification-email</title>
+    </head>
+    <body>
+        <h1>You have a new message!</h1>
+        <h2>User:Tom Clayton, sent you the following message:</h2>
+        <p>Message!</p>
+        <h3 >Contact Info:</h3>
+        <ul>
+            <li>Email:raziel665@mail.com</li>
+            <li>Phone number:2223255452</li>
+        </ul>
+    </body>
+</html>
+

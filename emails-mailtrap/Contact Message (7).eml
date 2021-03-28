@@ -1,0 +1,27 @@
+Message-ID: <a5eeea57467209a964be03ef35f65eb0@localhost>
+Date: Thu, 04 Mar 2021 10:28:12 +0000
+Subject: Contact Message
+From: LaurenG5@gmail.com
+To: dipantelis@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+
+<html>
+    <head>
+        <title>Notification-email</title>
+    </head>
+    <body>
+        <h1>You have a new message!</h1>
+        <h2>User:Lauren G, sent you the following message:</h2>
+        <p>Text!</p>
+        <h3 >Contact Info:</h3>
+        <ul>
+            <li>Email:LaurenG5@gmail.com</li>
+            <li>Phone number:9999999999</li>
+        </ul>
+    </body>
+</html>
+
